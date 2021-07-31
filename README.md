@@ -1,4 +1,4 @@
-# Vimrc for Colmak
+# Vimrc for Colemak
 ## HNEI Mod 
 
 I am providing this here as a vimrc file, but it's probably easier to just paste these lines into your own vimrc.
