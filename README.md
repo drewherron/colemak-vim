@@ -1,4 +1,4 @@
-# Vimrc for Colemak
+# Vim for Colemak
 ## HNEI Mod 
 
 Colemak's great, but the main thing holding me back from switching over was having to use it with Vim. Losing the HJKL movement keys is kind of a deal-breaker, and if I have to choose between Colemak and Vim, I'm choosing Vim.
