@@ -19,7 +19,7 @@ So here's a vim setup that fixes that issue.
 - k/K replaces e/E
 - Previous word (B) and end word (K) are next to each other
 
-#### Help is lower-case j
+#### Help is on lower-case j
 - This one doesn't make much sense, but it didn't make sense on K to begin with
 - Just remember "help" in Norwegian is "hjelp"
 
@@ -40,4 +40,9 @@ nmap l i
 nmap L I
 ```
 
-![Cheat Sheet Graphic](https://raw.githubusercontent.com/drewherron/colemak-vim/main/colemak-vim-hnei.png)
+<p align="center">
+ <img src="https://raw.githubusercontent.com/drewherron/colemak-vim/main/colemak-vim-hnei.png" width="50%" height="50%">
+ <br>
+ (Click to enlarge)
+ </p>
+ 
