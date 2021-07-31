@@ -39,3 +39,5 @@ nmap K E
 nmap l i
 nmap L I
 ```
+
+![Cheat Sheet Graphic](https://raw.githubusercontent.com/drewherron/colemak-vim/main/colemak-vim-hnei.png)
