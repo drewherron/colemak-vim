@@ -1,7 +1,3 @@
-# Unfinished - Don't use this yet 
-
-***
-
 # Vim for Colemak
 ## HNEI Mod 
 
@@ -32,17 +28,17 @@ So here's a vim setup that fixes that issue.
 I am providing this here as a vimrc file, but it's probably easier to just paste the following lines into your own vimrc:
 
 ```
-nmap n j
-nmap N n
-nmap e k
-nmap E N
-nmap i l
-nmap I L
-nmap j K
-nmap k e
-nmap K E
-nmap l i
-nmap L I
+nnoremap n j
+nnoremap N n
+nnoremap e k
+nnoremap E N
+nnoremap i l
+nnoremap I L
+nnoremap j K
+nnoremap k e
+nnoremap K E
+nnoremap l i
+nnoremap L I
 ```
 
 <p align="center">
