@@ -7,16 +7,17 @@ So here's a vim setup that fixes that issue.
 
 ### What's different:
 #### The four direction keys are on h/n/e/i, in the same place as QWERTY's h/j/k/l
+- H is unchanged
 - N (shift + ↓) goes to next search match (replaces n)
 - E (shift + ↑) goes to previous search match (replaces N)
-- H and L (upper-case) are unchanged 
+- I (shift + →) moves cursor to bottom of screen (same location as QWERTY, different letter)
 
 #### Insert mode is on the L key
 - l to enter insert mode
 - L to insert at beginning of line
  
 #### End of word is on the K key
-- k/K replaces e/E
+- K/k replaces E/e
 - Previous word (B) and end word (K) are next to each other
 
 #### Help is on lower-case j
@@ -24,7 +25,7 @@ So here's a vim setup that fixes that issue.
 - Just remember "help" in Norwegian is "hjelp"
 
 
-I am providing this here as a vimrc file, but it's probably easier to just paste the following lines into your own vimrc.
+I am providing this here as a vimrc file, but it's probably easier to just paste the following lines into your own vimrc:
 
 ```
 nmap n j
