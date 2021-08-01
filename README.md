@@ -1,3 +1,7 @@
+# Unfinished - Don't use this yet 
+
+***
+
 # Vim for Colemak
 ## HNEI Mod 
 
