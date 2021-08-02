@@ -4,6 +4,11 @@
 Colemak's great, but the main thing holding me back from switching over was having to use it with Vim. Losing the HJKL movement keys is kind of a deal-breaker, and if I have to choose between Colemak and Vim, I'm choosing Vim.
 
 So here's a vim setup that fixes that issue.
+<p align="center">
+ <img src="https://raw.githubusercontent.com/drewherron/colemak-vim/main/colemak-vim-hnei.png" width="50%" height="50%">
+ <br>
+ (Click to enlarge)
+ </p>
 
 ### What's different:
 #### The four direction keys are on h/n/e/i, in the same place as QWERTY's h/j/k/l
@@ -40,10 +45,14 @@ nnoremap K E
 nnoremap l i
 nnoremap L I
 ```
+If you use Vimium in your browser, you can add these lines to your custom key mappings:
+```
+map n scrollDown
+map N performFind
+map e scrollUp
+map E performBackwardsFind
+map i scrollRight
+map I goForward
+map j showHelp
+```
 
-<p align="center">
- <img src="https://raw.githubusercontent.com/drewherron/colemak-vim/main/colemak-vim-hnei.png" width="50%" height="50%">
- <br>
- (Click to enlarge)
- </p>
- 
