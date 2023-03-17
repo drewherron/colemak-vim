@@ -1,14 +1,14 @@
 """"""""""""""""""""""""
 "" Colemak HNEI Remap ""
 """"""""""""""""""""""""
-nnoremap n j
-nnoremap N n
-nnoremap e k
-nnoremap E N
-nnoremap i l
-nnoremap I L
-nnoremap j K
-nnoremap k e
-nnoremap K E
-nnoremap l i
-nnoremap L I
+noremap n j
+noremap N n
+noremap e k
+noremap E N
+noremap i l
+noremap I L
+noremap j K
+noremap k e
+noremap K E
+noremap l i
+noremap L I
