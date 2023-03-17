@@ -1,7 +1,7 @@
 # Vim for Colemak
 ## HNEI Mod 
 
-Colemak's great, but the main thing holding me back from switching over was having to use it with Vim. Losing the HJKL movement keys is kind of a deal-breaker, so here's a vim setup that fixes that issue.
+Colemak's great, but the main thing holding me back from switching over was having to use it with Vim. Losing the HJKL movement keys was kind of a deal-breaker for me, so here's a Vim setup that fixes that issue.
 <p align="center">
  <img src="https://raw.githubusercontent.com/drewherron/colemak-vim/main/colemak-vim-hnei.png" width="50%" height="50%">
  <br>
