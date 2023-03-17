@@ -327,9 +327,9 @@
      bordercolor="#666666"
      pagecolor="#ffffff"
      id="base"
-     inkscape:zoom="0.34497483"
-     inkscape:cx="905.49359"
-     inkscape:cy="819.89038"
+     inkscape:zoom="0.6563871"
+     inkscape:cx="693.53153"
+     inkscape:cy="386.68974"
      inkscape:window-x="0"
      inkscape:window-y="21"
      inkscape:current-layer="svg2"
@@ -337,7 +337,7 @@
      inkscape:guide-bbox="true"
      showgrid="false"
      inkscape:snap-global="false"
-     inkscape:window-maximized="1"
+     inkscape:window-maximized="0"
      inkscape:object-paths="false"
      inkscape:snap-nodes="false"
      inkscape:snap-bbox="true"
@@ -4814,53 +4814,7 @@
        style="font-size:15.9999px;line-height:1">Visual mode:</tspan></text>
   <g
      id="g6172"
-     transform="translate(-25.692006,760.93366)">
-    <text
-       transform="scale(1.00492,0.995104)"
-       id="text6174"
-       y="548.66809"
-       x="706.56366"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Georgia;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         id="tspan6176"
-         y="548.66809"
-         x="706.56366"
-         sodipodi:role="line"
-         style="font-size:13.9718px;line-height:1"> </tspan></text>
-    <text
-       id="text6178"
-       y="501.5209"
-       x="41.783012"
-       style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         y="501.5209"
-         x="41.783012"
-         id="tspan6180"
-         sodipodi:role="line"
-         style="font-size:12px;line-height:1.25"> </tspan></text>
-    <flowRoot
-       id="flowRoot6182"
-       xml:space="preserve"
-       style="line-height:0.01%"><flowRegion
-         id="flowRegion6184"><rect
-           y="532.85815"
-           x="704.508"
-           height="71.959633"
-           width="300.60556"
-           id="rect6186" /></flowRegion><flowPara
-         id="flowPara6188"
-         style="font-size:12px;line-height:1.25"> </flowPara></flowRoot>
-    <text
-       id="text6190"
-       y="487.27194"
-       x="25.855341"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Georgia;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         y="487.27194"
-         x="25.855341"
-         id="tspan6192"
-         sodipodi:role="line"
-         style="font-size:14px;line-height:1.25"> </tspan></text>
+     transform="translate(-50.454318,760.72502)">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Georgia;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
