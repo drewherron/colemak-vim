@@ -1,9 +1,7 @@
 # Vim for Colemak
 ## HNEI Mod 
 
-Colemak's great, but the main thing holding me back from switching over was having to use it with Vim. Losing the HJKL movement keys is kind of a deal-breaker, and if I have to choose between Colemak and Vim, I'm choosing Vim.
-
-So here's a vim setup that fixes that issue.
+Colemak's great, but the main thing holding me back from switching over was having to use it with Vim. Losing the HJKL movement keys is kind of a deal-breaker, so here's a vim setup that fixes that issue.
 <p align="center">
  <img src="https://raw.githubusercontent.com/drewherron/colemak-vim/main/colemak-vim-hnei.png" width="50%" height="50%">
  <br>
@@ -30,20 +28,20 @@ So here's a vim setup that fixes that issue.
 - Just remember "help" in Norwegian is "hjelp"
 
 
-I am providing this here as a vimrc file, but it's probably easier to just paste the following lines into your own vimrc:
+I am providing this here as a vimrc file, but it's probably (definitely) easier to just paste the following lines into your own vimrc:
 
 ```
-nnoremap n j
-nnoremap N n
-nnoremap e k
-nnoremap E N
-nnoremap i l
-nnoremap I L
-nnoremap j K
-nnoremap k e
-nnoremap K E
-nnoremap l i
-nnoremap L I
+noremap n j
+noremap N n
+noremap e k
+noremap E N
+noremap i l
+noremap I L
+noremap j K
+noremap k e
+noremap K E
+noremap l i
+noremap L I
 ```
 If you use Vimium in your browser, you can add these lines to your custom key mappings:
 ```
@@ -56,3 +54,4 @@ map I goForward
 map j showHelp
 ```
 
+If I've made mistakes or if you can add any improvements, feel free to send in pull requests.
